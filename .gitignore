@@ -2,3 +2,4 @@ bower_components
 node_modules
 src/js/environment.js
 src/index.html
+app/platforms/ios/cordova/console.log
