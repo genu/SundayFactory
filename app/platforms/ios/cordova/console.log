@@ -1,0 +1,6 @@
+2015-08-04 15:21:35.637 ionicTest[13987:1134396] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eugenistoc/Library/Developer/CoreSimulator/Devices/7BED53DD-F723-42DF-A4DD-0C996043913B/data/Containers/Data/Application/AEC9F9A7-7B5A-4C5E-8CAD-E2D488A16ABC/Library/Cookies/Cookies.binarycookies
+2015-08-04 15:21:35.875 ionicTest[13987:1134396] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-04 15:21:35.875 ionicTest[13987:1134396] Multi-tasking -> Device: YES, App: YES
+2015-08-04 15:21:35.878 ionicTest[13987:1134396] Unlimited access to network resources
+2015-08-04 15:21:36.156 ionicTest[13987:1134396] Resetting plugins due to page load.
+2015-08-04 15:21:36.334 ionicTest[13987:1134396] Finished load of: file:///Users/eugenistoc/Library/Developer/CoreSimulator/Devices/7BED53DD-F723-42DF-A4DD-0C996043913B/data/Containers/Bundle/Application/22ABB2A5-8ECC-40F5-8CAB-4CBF4813D1BB/ionicTest.app/www/index.html
